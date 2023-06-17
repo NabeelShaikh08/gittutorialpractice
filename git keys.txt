@@ -16,4 +16,6 @@
 "git log --pretty=oneline"
 "git log --pretty=short"
 "git log --pretty=full"
+"git checkout -- file name" previous change in file.
+
  

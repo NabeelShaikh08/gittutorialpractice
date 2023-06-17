@@ -1,0 +1,19 @@
+"git config --global user.name" to add name.
+"git config --global user.email" to add email.
+"git status" to check the status.
+"git init" to initialize.
+"git log" to show history.
+"git add --a" to add in stage.
+"git rm --cached" to remove a file from stage.
+"git mv" to move or rename a file.
+"git commit -m" to commit. 
+"rm -rf .git" to end git repository.
+"git clone" to add link.
+"q" to exit log.
+"git diff" to see difference.
+"git log -p" to see changes done in log.
+"git log --stat" short summary of commits.
+"git log --pretty=oneline"
+"git log --pretty=short"
+"git log --pretty=full"
+ 
